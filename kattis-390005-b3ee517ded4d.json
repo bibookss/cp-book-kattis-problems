@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kattis-390005",
+  "private_key_id": "b3ee517ded4db6c2b7bafaf3ec272f3c062d332d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCw4Ah0DB2d0Mwf\nDKV+3NdUD2jd32ek3gfzzlg6enfBPkptJW+ev8ZPiudnX10Yg42npZ+d6HCWASEM\nhNuYjIgJq3G3xFVORWN3uHBdfS7FekCTEgxE3tgd6aKO7mnMI50r7F023Ad37MHq\n3Zl/BGh5tquaz8Mjbt7FChJTYJ66ZtPGb5sOTnzAls18mS79AX/6S388oeE/fbR3\naIRFNeymnDmYU1bsfJdQIxQIuBBm+lJnsRXTqrqGcIpo1cHIltLzfA9qbfahWkh1\n77/StcAXrSX/2p8h0jn4SYc62IBHka73wPVRFglw/Tpx5n5/S9ll50aJElio+c+2\n6uNNX1uvAgMBAAECggEAHlV1ra1MQP4Hm8WX9l9agHyaD/8Z79DyTTJUuEa7lgUg\nT4Ktl2ytToP0dqqItUUOfLNvYe30rQ0phVOds5ZaWEoyWQFPXfqRef1ELAxlgpGa\nVH6yYvdS2iJw8hFaTJvI/zjsrZVjpIISqbxycDGp10HoQUcjYMbJZsJ47RqzbiUe\nGrxAWa/6otDQAWoQxuAJoGYRixbTIu/l2M74m/3jhNVBzNWQaWIYT6p0C5s/O3Nx\nqRUlTb2xDJByO4bqUCsXLgnu8wD5NXadvEc2s+YLSLd6AcYkvWtL2x332J0iA5ca\ncZUBL/5W+qcZozGTz08dAUutanX8gONZ+N3P/y4LhQKBgQDpsjBmcSr0irg2TJjJ\nfRwWHvx02Ow13ArWwPmqinB1w2lm4DYx0xhvWmZ09kSREmlSTcDwbQa2ZDRG7CHK\nABAaZtxHHF8I0MV0yeIr5hpKawoGWK0QAJCS+B1TCSywDWXfCaCb2w0DK8m3cr1N\nCvzbNj9k9UHQ3tNuPUEUEiiRzQKBgQDBwY8X3vHk3wXOECWEsZxbWWtmJ1e7lpT0\n3E25N23L1B0unx6QGC8U6Z0PLZ4DlFN6SXR1jhzugFaB0+9RCEffKhm36DPBFSHV\nZOZBDFo+2Dng1xu8ZbvvTsG2M8RgEbGuozzEzujl/ukAjBZp4u/zErmelm+manqu\nUbqlCZUXawKBgQCjdY+FGAMDqUPQNyNnS6spjeLnmBMgWRj7vV7kepDOzjAbVRiT\nISQmPwULKnYrQsWIW/poMNpRGSW3tdKsh/67eNb6pk2SzPRQDCW2ruwUwWnxpnTm\njH6TThi0y+YF/lkS+JjuavlfDnG5bvgZu2XBruAIrcOrZTBeG1o5v7nAwQKBgCLt\nZ4QgFm7xnTRGSN0gv1TgS7IAiZoxTOzPAdvPmCVUOWZ8HKBRG7ujWUKxMHjothun\nPi0qzyBXVkDVGaD74yjhh/1VCG9YBd9X7wHu3h3SEKztWfyeQkCja9wSfOXsiqE2\nn+/CdM1xJEOK/UddN3AUAg4KhFn1e+QMq56wmYW9AoGAQI/0Ythf4ywK6MVbDt/A\nU8uMaFIJvJj7PSFQg2vn17306pf+mroe1UHU/af4gWsJ1CN+E8WmS4wl6SHWzzdw\nqcUzKPSqa/fmD920a98L1TbaKOEKHAoCTEAKR/f8uUxCjoCY9RSlOSSHxmsU/O9X\nV7/v2PJwMBiJbhADxZnG/J0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kattis@kattis-390005.iam.gserviceaccount.com",
+  "client_id": "110129453120374488025",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kattis%40kattis-390005.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

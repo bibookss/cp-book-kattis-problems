@@ -1,0 +1,161 @@
+Contents
+
+Forewords for CP4 vii
+Testimonials of CP1/2/3 xiii
+Preface for CP4 xv
+Authors’ Profiles XxVii
+Abbreviations xxix
+1 Introduction 1
+LJ. Competitive Programming’ cocoa. 8 6 6 eee ote ee ee ww 1
+
+1.2 The Competitions... 2... 0.000000... 00000000200 000. 3
+1.2.1. International Olympiad in Informatics IOI) ...........00.. 3
+
+1.2.2 International Collegiate Programming Contests (ICPC) ........ 4
+
+1.2.3 Other Programming Contests .... 2c cee ee bd ee eee ewe 6
+
+L3 “Tips tevbe Competitive . . com aa. es 4 eee wade wee ee we 6
+1.3.1 Tip 1: Type Code Faster! 2... 0... ee 6
+
+1.3.2 Tip 2: Quickly Identify Problem Types... .........200.. 8
+
+1.3.3 Tip 3: Do Algorithm Analysis... 2... 0.0000 02000000084 10
+
+1.3.4 Tip 4: Master Programming Languages... .......0...0..0. 15
+
+1.3.5 ‘Tip &: Master the Arto Testing Code . osc ucwina ss ae ee em mae 18
+
+1.3.6 Tip 6: Practice and More Practice ........0..2..0...00.. 21
+
+1.3:7 Tip 7: Team Work (for ICPC). 2. ce cee ee eee 22
+
+1.4 Getting Started: The Easy Problems ..................000. 23
+1.4.1 Anatomy of a Programming Contest Problem ............. 23
+
+1.4.2 Typical Input/Output Routines... 0.2... ee 23
+
+1.4.3 Time to Start the Journey... . 0... 26
+
+1.4.4 Getting Our First Accepted (AC) Verdict ............0.. 27
+
+1.5 Basic String Processing Skills . 2... 0... 02. ee 31
+
+1.6 ‘The Ad Hoe Problems ; 2 saweag ees e282 HES ER EEE Aa 33
+
+1.7 Solutions to Non-Starred Exercises 2... 0 41
+
+1.8 Chapter Notes... 0.0.0.0 002000002 51
+
+2 Data Structures and Libraries 53
+2d, Overview and Motivation: «cess 44 445 ee oe Seed eRe ER ew HS 53
+22 Jinear DS with.Built-in Libraries 2... 6 6 co oi ea ee ee 55
+2.21 Array 2. 55
+
+22.2 Special Sorting Problems ..s1 225 ee peewee a kee ERED wo 59
+
+2.2.3 Bitmask .. 0... 62
+
+2.2.4 Big Integer (Python & Java)... 2... ee 66
+
+ili
+CONTENTS © Steven, Felix, Suhendry
+
+ 
+
+ 
+
+2.2.5 Linked Data Structures... 0... 2 ee 69
+2.2.6 Special Stack-based Problems .............0......00. 71
+
+2.3 Non-Linear DS with Built-in Libraries .........0..0..0..00.. 78
+2.3.1 Binary Heap (Priority Queue)... 2... ee 78
+2o2 Heeb Table oe essa cae ee ew EERE RE Ew wea ee 81
+2.3.3 Balanced Binary Search Tree (bBST) .. 2... 0... ee 84
+2.3.4 Order Statistics Tree. 2 ee 87
+
+2A. DS with Our Own Libraries «cc eee ee ee we 94
+24.1 Graph... . ee 94
+24.2 Union-Find Disjoint Sets. . 2. see es ba ee eee ewe adda 99
+2.4.3 Fenwick (Binary Indexed) Tree . 2... 0... 2 ee 104
+2.4.4 Segment Tree... . 0... 114
+
+2.5 Solution to Non-Starred Exercises... 1... ee 124
+2.6 Chapter Notes... 2... 0.0200. ee 127
+3 Problem Solving Paradigms 129
+3.1 Overview and Motivation... 2... ee 129
+3.2 Complete Search 2... ee 130
+3.2.1. Tberative Complete Search 6 6 6 cca w a we ae ee a wwe 131
+3.2.2 Recursive Complete Search. 2. 2 ee 135
+a23 Goriplete Search Tips 1... 2c see essa tes eee ew ED e 139
+
+3.2.4 Complete Search in Programming Contests... ....0....00020. 143
+
+3.3 Divide and Conquer... 0... ee 148
+3.3.1 Interesting Usages of Binary Search... 2... 148
+3.3.2 Ternary Search 2... ee 152
+3.3.3 Divide and Conquer in Programming Contests... .......0.0.. 153
+
+SA Greedy. 6c 6 ce cum wie ae ee ee OE ee a HY 155
+3.4.1 Examples 2... 0.000000 0000000000000 022 eee 155
+3.4.2 Greedy Algorithm in Programming Contests... 2... ....0000. 161
+
+3.5 Dynamic Programming... 2.2... 0.200000 00000000000 000.8 164
+3.5.1 DP Illustration 2... 2... ee 164
+3.5.2 Classical Examples . 1. 5 cb se eS we ew ee 173
+3.5.3 Non-Classical Examples .. 1... 2. 184
+
+3.5.4 Dynamic Programming in Programming Contests ........... 187
+
+3.6 Solution to Non-Starred Exercises . cee ee 190
+3.7 Chapter Notes... 0... 191
+4 Graph 193
+4.1 Overview and Motivation... 2... ee 193
+a2 Greph Traversal <j 265853455 8 e Ew ORE EE REDE eZee 195
+4.2.1 Overview and Motivation ... 2.2.0.0... ..00...000.0. 195
+4.2.2 Depth First Search (DFS) ........-0.20..0..0..0200-. 195
+4.2.3 Breadth First Search (BFS)... 2... 20200000200. 000000. 197
+4.2.4 Finding Connected Components (Undirected Graph) ......... 198
+4.2.5 Flood Fill (Implicit 2D Grid Graph) .......0..0.00000. 199
+4.2.6 Topological Sort (Directed Acyclic Graph) ............00.. 200
+4.2.7 Bipartite Graph Check (Undirected Graph) .............. 202
+4.2.8 Cycle Check (Directed Graph)... 2... 0.0 00020000000. 203
+4.2.9 Finding Articulation Points and Bridges (Undirected Graph)... . . 205
+4.2.10 Finding Strongly Connected Components (Directed Graph)... .. . 208
+CONTENTS © Steven, Felix, Suhendry
+
+ 
+
+4.2.11 Graph Traversal in Programming Contests ........0...000.. 211
+
+4.3 Minimum Spanning Tree (MST)... ......0020...000. 00000, 215
+4.3.1 Overview and Motivation .......0.0......00...000.0. 215
+4.3.2 Kruskal’s Algorithm 2... 2.0.0 .200002.00..200.2000. 215
+AS. Prim’s Algorithm ¢ cow awa a 6 4 eee ewe we 217
+4.3.4 Other Applications... 2... ee 218
+4.3.5 MST in Programming Contests ............00.000040. 221
+
+4.4 Single-Source Shortest Paths (SSSP) .................0000. 223
+AAJ Overview and Motivation . 2.5.35 ce pee ees bee eee we 223
+4.4.2 On Unweighted Graph: BFS... ....0.0..0..2.0..0000. 223
+4.4.3 On Weighted Graph: Dijkstra’s .. 2... 0.000000... 0000. 227
+4.4.4 On Small Graph (with Negative Cycle): Bellman-Ford ........ 234
+4.4.5  SSSP in Programming Contests .. 2... ..0.00.02...0004. 237
+
+4.5  All-Pairs Shortest Paths (APSP) .........0.....2.. 2.0000, 241
+4.5.1 Overview and Motivation .. 2... ...0.0.00.0.200 0200000. 241
+4.5.2 Floyd-Warshall Algorithm ........ 0.0... 00000000004 242
+4.5.3 Other Applications .. 2.2... 2 ee 244
+4.5.4 APSP in Programming Contests... 2... 0.0.0.0... 0000045 246
+
+46 Special Graphs . 66 6 ce cum wes we ee eee a ee ee BO a 249
+4.6.1 Directed Acyclic Graph... 2... ee 249
+AG:.2 WES wives ek wwe em ee eH er 255
+4.6.3 BipartiteGraph.... 2.2... 2. 257
+A64 Fegletian Graph «<j eee5s3 455 ee Ew wee EE eR Ew wo 260
+4.6.5 Special Graphs in Programming Contests... .........00.0. 263
+
+4.7 Solution to Non-Starred Exercises... 0. 2 ee 267
+4.8 Chapter Notes... 0.0.0.0 000000000 0 Fee 270
+Bibliography 276
+
